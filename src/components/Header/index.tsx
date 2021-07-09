@@ -9,13 +9,13 @@ interface HeaderProps {
 function Header({ children }: HeaderProps) {
   return (
     <Container>
+      
       <Menu>
-        <a href="/">Home</a>
-        <a href="/">Home</a>
-        <a href="/">Home</a>
-        <a href="/">Home</a>
+       
       </Menu>
-
+      <div>
+        
+      </div>
 
       {children}
     </Container>
