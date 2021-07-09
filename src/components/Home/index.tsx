@@ -9,7 +9,18 @@ interface HomeProps {
 function Home({ children }: HomeProps) {
   return (
     <Container>
-      <h1>Home</h1>
+     
+      <div>
+        <p>
+        Hi.
+        I'm Lucas Henrique.
+        Welcome in my world.
+        </p>
+      </div>
+      
+      
+      
+      
       {children}
     </Container>
   );
