@@ -1,7 +1,9 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-width: 100vw;
+position: fixed;
+`
+/*width: 100vw;
 height: 3rem;
 background:linear-gradient(to right, #FF0A6C, #2D27FF );
 display: flex;
@@ -18,5 +20,4 @@ a{
   color:#FFF;
   margin:0 2rem ;
 }
-
-`
+*/
